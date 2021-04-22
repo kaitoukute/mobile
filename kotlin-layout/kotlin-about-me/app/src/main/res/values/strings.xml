@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">He Sheng</string>
+    <string name="hint">What is your name?</string>
+    <string name="introduce_myself">My name is Hung and I am a Vietnamese.
+        \n \n I am twenty-one years old. and I am a student at Hanoi Architectural University at the moment.
+        \n My major is Engineering, and I am studying in year three. Now I live in Hanoi city, the capital of Vietnam.
+        \n \n \n \n \n I have a big family with six people.
+        \n I have two sisters and a brother.
+        \n My sisters are older and my brother is younger than me. My father is a teacher at a secondary school.
+        \n He has worked for 35 years in the field and he is my biggest role model in life.
+        \n \n \n \n \n \n \n My mother is a housewife. She is nice and she is really good at cooking.
+        \n \n \n \n \n \n I love my family so much.
+        \n \n \n \n \n \n However they live in my hometown, and I have to live away from them due to my study.</string>
+    <string name="done_button">Done</string>
+</resources>
